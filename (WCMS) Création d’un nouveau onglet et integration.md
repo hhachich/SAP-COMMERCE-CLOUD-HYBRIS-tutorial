@@ -1,3 +1,5 @@
+# (WCMS) Création d’un nouveau onglet et integration d’une page et d’une paragraphe
+
 ## Création de notre nouvelle page avec un nouveaux node
 
 Création de `PageTemplate` avec le nom `testPageTemplate` ici `testLayoutPage` c’est le nom de notre JSP qu’on va créé

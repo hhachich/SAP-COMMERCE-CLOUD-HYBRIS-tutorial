@@ -1,4 +1,6 @@
-# Création d’un filtre EcoTaxe True / false
+# (Filre) Création d’un filtre EcoTaxe
+
+## Création d’un filtre EcoTaxe True / false
 
 création du résolveur `FbEcotaxeResolver`
 
@@ -63,7 +65,7 @@ INSERT_UPDATE SolrIndexedProperty; solrIndexedType(identifier)[unique = true]; d
 ; $productSolrIndexedType; filte article eco-part; filtre_ecotaxe; boolean;;;; Refine;Alpha;0;true;; fbEcotaxeResolver;
 ```
 
-# Création d’un filtre EcoTaxe avec les valeurs
+## Création d’un filtre EcoTaxe avec les valeurs
 
 création du résolveur `FbExotaxeResolverValue` 
 

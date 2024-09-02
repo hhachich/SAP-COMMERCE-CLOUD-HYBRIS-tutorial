@@ -1,3 +1,5 @@
+# (Item) Création d’un nouvel item qui n’étend de rien
+
 **Chemin :** `myprojectcore-items.xml`
 
 dans le `itemtype code="ApparelProduct"` ajouter l’attribue dans `<attributes>`

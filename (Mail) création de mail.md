@@ -1,4 +1,5 @@
-# Création d’un mail simple
+# (Mail) création de mail
+## Création d’un mail simple
 
 Création d’un nouveau type d'élément `TrainingEmailProcess`
 
@@ -327,7 +328,7 @@ pour le serveur de Mail utiliser `Fake SMTP Server`
 
 ---
 
-# Création d’un Attachement
+## Création d’un Attachement
 
 Création de la relation 
 

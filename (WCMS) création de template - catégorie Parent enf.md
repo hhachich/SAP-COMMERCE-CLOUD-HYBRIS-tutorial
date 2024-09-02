@@ -1,3 +1,4 @@
+# (WCMS) création de template + catégorie Parent & enfant 
 ### création de template
 
 Création de `PageTemplate` avec le nom `PageTemplateTest` ici `testLayoutPage` c’est le nom de notre JSP qu’on va créé

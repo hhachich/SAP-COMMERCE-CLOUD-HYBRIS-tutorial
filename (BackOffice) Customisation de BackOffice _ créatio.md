@@ -1,3 +1,5 @@
+
+# (BackOffice) Customisation de BackOffice : création d’un new Item - d’un new tree dans le BackOffice - new Tab  - new section - reno
 Création d’un nouveau Item qui n’étend de rien 
 
 **Chemin :** `myprojectcore-items.xml`

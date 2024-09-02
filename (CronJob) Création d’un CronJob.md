@@ -1,4 +1,5 @@
-# Création d’un CronJob  Simple
+# (CronJob) Création d’un CronJob  
+## Création d’un CronJob  Simple
 
 Définition d’un CronJob
 
@@ -71,7 +72,7 @@ Exécute le CronJob dans le backOffice
 
 ---
 
-# CronJob avec une execution periodique
+## CronJob avec une execution periodique
 
 Modification de la class Job pour afficher l’heur 
 
@@ -129,7 +130,7 @@ Exécute le CronJob dans le backOffice
 
 ---
 
-# CronJob avec un Flexible Search
+## CronJob avec un Flexible Search
 
 Modification de la class Job 
 
@@ -209,7 +210,7 @@ Lancer le CronJob
 
 ---
 
-# CronJob avec Mail
+## CronJob avec Mail
 
 [mail test](https://www.notion.so/mail-test-848cf760376b49b5ad6d2b4e8a176139?pvs=21)
 

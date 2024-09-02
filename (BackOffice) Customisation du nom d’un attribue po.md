@@ -1,3 +1,5 @@
+# (BackOffice) Customisation du nom d’un attribue pour Item existant + integration dans une nouvelle TAB 
+
 **Chemin :** `myprojectcore-items.xml`
 
 dans le `itemtype code="ApparelProduct"` ajouter l’attribue dans `<attributes>`

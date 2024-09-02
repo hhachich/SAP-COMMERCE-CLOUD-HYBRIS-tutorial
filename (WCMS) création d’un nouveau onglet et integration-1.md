@@ -1,3 +1,4 @@
+# (WCMS) création d’un nouveau onglet et integration d’une page( titre, text, catégorie)
 création de la page Template 
 
 ```xml
